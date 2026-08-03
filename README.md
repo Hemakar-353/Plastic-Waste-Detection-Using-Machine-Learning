@@ -52,3 +52,14 @@ The complete project report is available in this repository:
 **Tamiri Hemakar**
 - B.Tech, Electronics and Communication Engineering
 - National Institute of Technology Nagaland
+
+## 📸 Sample Results
+
+### Plastic Box Detection
+![Plastic Box](images/plastic_box_detection.png.png)
+
+### Plastic Bottle Detection
+![Plastic Bottle](images/plastic_bottle_detection.png.png)
+
+### Plastic Bottle Detection (Sample 2)
+![Plastic Bottle 2](images/plastic_bottle1_detection.png.png)
